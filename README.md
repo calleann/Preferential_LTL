@@ -1,6 +1,6 @@
 # On the decidability of a fragment of preferential LTL
 
-## Anasse Chafik, Fahima Cheikh-Alili, Jean-François Condotta, Ivan Varzinczak
+### Anasse Chafik, Fahima Cheikh-Alili, Jean-François Condotta, Ivan Varzinczak
 
 CRIL, Univ. Artois & CNRS, France
 \{chafik,cheikh,condotta,varzinczak\}@cril.fr
